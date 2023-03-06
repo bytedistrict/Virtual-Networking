@@ -15,9 +15,7 @@ Deploy a cloud server for a security team to test a vulnerable web application.
 3. Use the **+ Add** button to create a new network. Use your networking knowledge to fill in the correct fields.
 
     - Note: Choose a region that you can easily remember. Every resource you create going forward must be created in the exact same region.
-
 ![add_network](Images/add_network.png)
-
 4. For your network, set the following criteria and configurations: 
 
     - A descriptive name, so this VNet can't be confused with other cloud networks on the account.
