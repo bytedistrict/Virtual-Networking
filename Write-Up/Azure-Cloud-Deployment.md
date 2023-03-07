@@ -92,10 +92,11 @@ Click **+Create** button or the Create Resource Button
   <summary>Click to drop down for VNet set up steps.</summary>
   
   <br>
-  1. Return to the search bar and search network and **choose Virtual networks**
-  2. Click '+create' once in Virtual networks
-  3. IP adresses Keep Default
-  4. Keep security default we will secure our network with a security group later. 
+  
+1. Return to the search bar and search network and **choose Virtual networks**
+2. Click '+create' once in Virtual networks
+3. IP adresses Keep Default
+4. Keep security default we will secure our network with a security group later. 
   
   </details>
   
