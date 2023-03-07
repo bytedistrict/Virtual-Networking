@@ -1,4 +1,4 @@
-#### Setting Up Resource Group
+                                                          #### Setting Up Resource Group
 
 ![image1](https://user-images.githubusercontent.com/115432675/223288425-0d2d2786-0f71-4e66-8684-59d6c3557567.png)
 
