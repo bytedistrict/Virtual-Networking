@@ -11,7 +11,7 @@
 ![image2](https://user-images.githubusercontent.com/115432675/223289863-a527c45a-8f31-45c8-9864-b37ef01bd4a5.png)
 
 <details>
-  <summary>**Click for Step 1 dropdown.**</summary>
+  <summary>Click for Step 1 dropdown.</summary>
   
   <br>
   
@@ -50,8 +50,8 @@ Click **+Create** button or the Create Resource Button
   
   <br>
  
-         1. Create name of your resource group and choose a region. 
-         2. Every resource you create after this must be created in the same region.
+  1.Create name of your resource group and choose a region. 
+  2.Every resource you create after this must be created in the same region.
   
   
   **Note:** When creating a resource group it is best practice to keep note of what region your group is in. This group's region is the East US, so I put EUS at the end of the resource group name (Exmple-Resourcegroup-EUS) for myself or whoever else is managing the server knows the region.
