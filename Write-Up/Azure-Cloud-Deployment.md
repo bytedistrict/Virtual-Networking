@@ -82,7 +82,7 @@ Click **+Create** button or the Create Resource Button
   
   
   
-  ## Setting up the VNet
+  ## Step 3: Setting up the VNet
   
   ### Before you can deploy servers and services, there must be a network where these items can be accessed. 
   
@@ -118,7 +118,7 @@ Click **+Create** button or the Create Resource Button
 ![image9](https://user-images.githubusercontent.com/115432675/223302681-2fe091b9-9fd1-4829-bfb2-54657d5089c8.png)
 
 
-## View what you have created
+## Step 4: View what you have created
 
  <details>
   <summary>Click to drop down for VNet set up steps.</summary>
