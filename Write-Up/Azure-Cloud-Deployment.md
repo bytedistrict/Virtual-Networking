@@ -97,6 +97,7 @@ Click **+Create** button or the Create Resource Button
 2. Click **+create** once in Virtual networks
 3. IP adresses Keep Default
 4. Keep security default we will secure our network with a security group later. 
+5. Click **Create**
   
 **Note:** tags will not need to be created
   
@@ -114,30 +115,28 @@ Click **+Create** button or the Create Resource Button
 ![image11](https://user-images.githubusercontent.com/115432675/223302296-22d1590f-0121-4c6c-acdd-31fc32f1894e.png)
 
 
+![image9](https://user-images.githubusercontent.com/115432675/223302681-2fe091b9-9fd1-4829-bfb2-54657d5089c8.png)
 
 
+## View what you have created
+
+ <details>
+  <summary>Click to drop down for VNet set up steps.</summary>
+  
+  <br>
+  
+- Once you have created your resource group and VNet, return to the home screen and choose the resource group option
+- See the list of Resource groups and click on the created resource group from the first step to find your virtual network.
+- See your virtual network inside of your resource group
+  
+  </details>
   
   
   
+  ![image6](https://user-images.githubusercontent.com/115432675/223303402-bd73f4d6-44a2-40de-85bd-f5d9822197b3.png)
+  
+  
+  ![image4](https://user-images.githubusercontent.com/115432675/223303520-c83e5a72-75d5-4ad0-a63b-a02e140f406e.png)
   
   
   
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-References and Help for syntax============
-#### (with space gives title)
-6 spaces gives for text box
-' ' for highlighted text 
-"-" 3 spaces bullet point
-================================
