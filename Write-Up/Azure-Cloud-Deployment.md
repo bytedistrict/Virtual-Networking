@@ -58,6 +58,12 @@ Click **+Create** button or the Create Resource Button
 
 </details>
 
+ - Azure will let you know if there are any errors. Click on Create to finalize your settings and create
+
+
+![image7](https://user-images.githubusercontent.com/115432675/223298662-af6801a3-e7b4-46cb-88aa-bdf5493b9de2.png)
+
+
 
 
 
