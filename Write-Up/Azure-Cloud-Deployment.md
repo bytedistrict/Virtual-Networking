@@ -20,9 +20,9 @@ Click **+Create** button or the Create Resource Button
 
 ![image10](https://user-images.githubusercontent.com/115432675/223291427-d9507fb8-787d-4237-870c-c2b327393701.png)
 
-### Create a name for your resource group and choose a region. 
+## Create a name for your resource group and choose a region. 
 
-#### Step 2
+### Step 2
 
 
 ![image8](https://user-images.githubusercontent.com/115432675/223294082-f38e3513-056e-4ad2-aad7-3c168d09757d.png)
