@@ -22,11 +22,13 @@ Click **+Create** button or the Create Resource Button
 
 ### Create a name for your resource group and choose a region. 
 
+#### Step 2
+
 
 ![image8](https://user-images.githubusercontent.com/115432675/223294082-f38e3513-056e-4ad2-aad7-3c168d09757d.png)
 
 
-#### Step 2
+#### see step two steps
 <details>
   <summary>Click to drop down step two.</summary>
   
