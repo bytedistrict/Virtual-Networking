@@ -98,6 +98,8 @@ Click **+Create** button or the Create Resource Button
 3. IP adresses Keep Default
 4. Keep security default we will secure our network with a security group later. 
   
+**Note:** tags will not need to be created
+  
   </details>
   
   
