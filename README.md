@@ -1,10 +1,10 @@
 # Virtual-Networking
-Deploy a cloud server for a security team to test a vulnerable web application.
+Deploy a cloud server for a team of developers to test a web application.
 
-# Goals
+# Basic overview and instruction (from management)
 1. Azure requires you to create a resource group before you can set up anything else. 
 
-    - Create a resource group that will contain everything the Red Team needs in the cloud.
+    - Create a resource group that will contain everything the development team needs in the cloud.
     
 		- Note: Choose the region you determined in the class walkthrough.  Every resource you create going forward must be created in the exact same region.		
 
@@ -15,7 +15,7 @@ Deploy a cloud server for a security team to test a vulnerable web application.
 3. Use the **+ Add** button to create a new network. Use your networking knowledge to fill in the correct fields.
 
     - Note: Choose a region that you can easily remember. Every resource you create going forward must be created in the exact same region.
-![add_network](Images/add_network.png)
+
 4. For your network, set the following criteria and configurations: 
 
     - A descriptive name, so this VNet can't be confused with other cloud networks on the account.
