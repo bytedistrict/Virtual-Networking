@@ -15,8 +15,8 @@
   
   <br>
   
-             - Azure requires that you set up a resource group before you can set up anything else.
-             - Use the Azure portal to create a resource group that will contain everything the development team needs.
+-          Azure requires that you set up a resource group before you can set up anything else.
+-          Use the Azure portal to create a resource group that will contain everything the development team needs.
 
 </details>
 
