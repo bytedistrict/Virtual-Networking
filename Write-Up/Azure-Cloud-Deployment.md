@@ -87,9 +87,19 @@ Click **+Create** button or the Create Resource Button
   ### Before you can deploy servers and services, there must be a network where these items can be accessed. 
   
   #### It is important to make sure the network has any resources the group will need now and in the future.
+ 
+ <details>
+  <summary>Click to drop down for VNet set up steps.</summary>
   
-  - Return to the search bar and search network and **choose Virtual networks**
-  - Click + create once in Virtual networks
+  <br>
+  1. Return to the search bar and search network and **choose Virtual networks**
+  2. Click '+create' once in Virtual networks
+  3. IP adresses Keep Default
+  4. Keep security default we will secure our network with a security group later. 
+  
+  </details>
+  
+  
 
 
 ![image8](https://user-images.githubusercontent.com/115432675/223301106-3fdc9312-0b31-412c-b93a-4b82218d7015.png)
