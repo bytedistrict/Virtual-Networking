@@ -70,8 +70,7 @@ Click **+Create** button or the Create Resource Button
   <br>
   
 - **Once the group is created:**
-
-  -   Go to resource groups in the top-right corner to view your new resource group
+  - Go to resource groups in the top-right corner to view your new resource group
  
   
   **See below**
