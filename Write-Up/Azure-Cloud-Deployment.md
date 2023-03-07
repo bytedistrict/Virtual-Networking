@@ -64,6 +64,15 @@ Click **+Create** button or the Create Resource Button
 
 ![image7](https://user-images.githubusercontent.com/115432675/223298662-af6801a3-e7b4-46cb-88aa-bdf5493b9de2.png)
 
+<details>
+  <summary>Click to drop down step two.</summary>
+  
+  <br>
+  
+- **Once the group is created:**
+
+  -   Go to resource groups in the top-right corner to view your new resource group
+  **See below**
 
 
 
