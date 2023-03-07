@@ -40,13 +40,8 @@ Click **+Create** button or the Create Resource Button
 
 ### Step 2
 
-
-![image8](https://user-images.githubusercontent.com/115432675/223294082-f38e3513-056e-4ad2-aad7-3c168d09757d.png)
-
-
-#### see step two steps
 <details>
-  <summary>Click to drop down step two.</summary>
+  <summary>Click to drop down step 2.</summary>
   
   <br>
  
@@ -56,8 +51,13 @@ Click **+Create** button or the Create Resource Button
   
 **Note:** When creating a resource group it is best practice to keep note of what region your group is in. This group's region is the East US, so I put EUS at the end of the resource group name (Exmple-Resourcegroup-EUS) for myself or whoever else is managing the server knows the region.
   
-
 </details>
+
+
+![image8](https://user-images.githubusercontent.com/115432675/223294082-f38e3513-056e-4ad2-aad7-3c168d09757d.png)
+
+
+
 
  - Azure will let you know if there are any errors. Click on **Create** to finalize your settings and create the group
 
