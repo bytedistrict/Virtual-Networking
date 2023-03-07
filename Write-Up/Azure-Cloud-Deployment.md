@@ -11,7 +11,7 @@
 ![image2](https://user-images.githubusercontent.com/115432675/223289863-a527c45a-8f31-45c8-9864-b37ef01bd4a5.png)
 
 <details>
-  <summary>Click for Step 1 dropdown.</summary>
+  <summary>**Click for Step 1 dropdown.**</summary>
   
   <br>
   
