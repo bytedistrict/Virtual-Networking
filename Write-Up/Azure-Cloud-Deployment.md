@@ -2,23 +2,29 @@
 
 ### Step 1
 
-From the dashboard we can search for resource groups in the search bar. Click on Resource groups to create 
+#### From the dashboard we can search for resource groups in the search bar. Click on Resource groups to create a new resource group.
 
-- Azure requires that you set up a resource group before you can set up anything else.
-- Use the Azure portal to create a resource group that will contain everything the development team needs.
+
 
 
 
 ![image2](https://user-images.githubusercontent.com/115432675/223289863-a527c45a-8f31-45c8-9864-b37ef01bd4a5.png)
 
+<details>
+  <summary>Click for Step 1 dropdown.</summary>
+  
+  <br>
+  
+      - Azure requires that you set up a resource group before you can set up anything else.
+      - Use the Azure portal to create a resource group that will contain everything the development team needs.
 
 
 
 
-
-Click **+Create** button or the Create Resource Button
 
 ![image10](https://user-images.githubusercontent.com/115432675/223291427-d9507fb8-787d-4237-870c-c2b327393701.png)
+
+Click **+Create** button or the Create Resource Button
 
 ## Create a name for your resource group and choose a region. 
 
