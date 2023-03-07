@@ -104,6 +104,16 @@ Click **+Create** button or the Create Resource Button
 
 
 ![image8](https://user-images.githubusercontent.com/115432675/223301106-3fdc9312-0b31-412c-b93a-4b82218d7015.png)
+
+
+![image3](https://user-images.githubusercontent.com/115432675/223302191-bfa47c42-9357-40b2-ab24-245ad91cc363.png)
+
+
+![image11](https://user-images.githubusercontent.com/115432675/223302296-22d1590f-0121-4c6c-acdd-31fc32f1894e.png)
+
+
+
+
   
   
   
